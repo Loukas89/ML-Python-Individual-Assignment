@@ -2,3 +2,5 @@
 # Datasets
 Datasets/*.csv
 data/raw/*
+
+.DS_Store
